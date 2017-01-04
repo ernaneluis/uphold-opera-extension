@@ -9,7 +9,6 @@
 	},
 
 	"permissions": [
-		"tabs",
 		"webRequest",
 		"https://api.uphold.com/v0/ticker/BTC"],
 	"browser_action": {
