@@ -73,7 +73,7 @@ function loadPrice()
 
 }
 
-setInterval(loadPrice, 5000);//10s
+setInterval(loadPrice, 10000);//10s
 
 
 
